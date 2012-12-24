@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
   vendor/lge/mako/proprietary/bin/ks:system/bin/ks \
   vendor/lge/mako/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
   vendor/lge/mako/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-  vendor/lge/mako/proprietary/bin/mpdecision:system/bin/mpdecision \
   vendor/lge/mako/proprietary/bin/netmgrd:system/bin/netmgrd \
   vendor/lge/mako/proprietary/bin/nl_listener:system/bin/nl_listener \
   vendor/lge/mako/proprietary/bin/PktRspTest:system/bin/PktRspTest \
