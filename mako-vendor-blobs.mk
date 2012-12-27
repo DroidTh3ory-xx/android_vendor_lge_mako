@@ -112,6 +112,8 @@ PRODUCT_COPY_FILES += \
   vendor/lge/mako/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/lge/mako/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
   vendor/lge/mako/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
+  vendor/lge/mako/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+  vendor/lge/mako/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
   vendor/lge/mako/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
   vendor/lge/mako/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/lge/mako/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
@@ -137,6 +139,7 @@ PRODUCT_COPY_FILES += \
   vendor/lge/mako/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
   vendor/lge/mako/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
   vendor/lge/mako/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
+  vendor/lge/mako/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
   vendor/lge/mako/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
   vendor/lge/mako/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
   vendor/lge/mako/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
