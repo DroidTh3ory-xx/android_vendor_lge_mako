@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
   vendor/lge/mako/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
+  vendor/lge/mako/proprietary/bin/drmserver:system/bin/drmserver \
   vendor/lge/mako/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
   vendor/lge/mako/proprietary/bin/btnvtool:system/bin/btnvtool \
   vendor/lge/mako/proprietary/bin/diag_klog:system/bin/diag_klog \
@@ -183,4 +184,9 @@ PRODUCT_COPY_FILES += \
   vendor/lge/mako/proprietary/vendor/firmware/discretix/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
   vendor/lge/mako/proprietary/vendor/firmware/discretix/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
   vendor/lge/mako/proprietary/vendor/firmware/discretix/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
-  vendor/lge/mako/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so
+  vendor/lge/mako/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+  vendor/lge/mako/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
+  vendor/lge/mako/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+  vendor/lge/mako/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+  vendor/lge/mako/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+  vendor/lge/mako/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so
